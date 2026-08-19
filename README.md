@@ -11,4 +11,3 @@
 
 - [Github] (https://github.com/Dvzind07) - Veja meus projetos !
 - [Instagram] (https://www.instagram.com/dv.ribeirow/)
-- [Discord] (https://discord.com/users/1257390705785962527)
