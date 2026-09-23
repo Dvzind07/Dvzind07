@@ -9,5 +9,5 @@
 
 ## Me encontre em 
 
-- [Github] (https://github.com/Dvzind07) - Veja meus projetos !
+- [Github] (https://github.com/Dvzind07?tab=repositories) - Veja meus projetos !
 - [Instagram] (https://www.instagram.com/dvzin.d07/)
