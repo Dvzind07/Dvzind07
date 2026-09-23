@@ -10,4 +10,4 @@
 ## Me encontre em 
 
 - [Github] (https://github.com/Dvzind07) - Veja meus projetos !
-- [Instagram] (https://www.instagram.com/dv.ribeirow/)
+- [Instagram] (https://www.instagram.com/dvzin.d07/)
