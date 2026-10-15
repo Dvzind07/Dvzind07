@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-- Desenvolvedor iniciante em formação aprendendo sobre **Java script**, **HTML e CSS** e **Python**.
+- Desenvolvedor iniciante em formação aprendendo sobre **Java script**, **Type script** e **Python**.
 - Atualmente focado em construção de aplicativos em **React-native**
 - Grande fã de **back-end** e entusiasta em tecnologias no geral.
 
